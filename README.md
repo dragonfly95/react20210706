@@ -2,3 +2,16 @@
 
 https://blog.naver.com/qudrnsektzja/222314225873
 
+## Container 
+ - useSelector
+ - useDispatch
+ - useCallback
+
+## component
+
+
+## reducer 
+ - module 형태로 작성
+ - createAction 
+ - handleActions
+ - combineReducers
